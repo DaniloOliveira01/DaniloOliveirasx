@@ -1,8 +1,8 @@
 ### Olá, me chamo Danilo! 😎
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-🔭 Focado atualmente em Front-End, utilizando as tecnologias:HTML,CSS, JavasCript, Typescript, ReactJs, Next.Js.
-📚 Pretendo estudar: Ser um futuro programador fullstack utilizando as stacks JS ou ate mesmo Java.
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+### 🔭 Focado atualmente em Front-End, utilizando as tecnologias:HTML,CSS, JavasCript, Typescript, ReactJs, Next.Js.
+### 📚 Pretendo estudar: Ser um futuro programador fullstack utilizando as stacks JS ou ate mesmo Java.
 
 <div>
   <a href="https://www.github.com/DaniloOliveirasx">
