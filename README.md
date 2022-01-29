@@ -1,8 +1,8 @@
 # Olá, me chamo Danilo! 😎
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
-### 🔭 Focado atualmente em Front-End, utilizando as tecnologias: HTML,CSS, JavasCript, Typescript, ReactJs, Next.Js.
-### 📚 Pretendo estudar: Node.js/Java.
+#### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+#### 🔭 Focado atualmente em Front-End, utilizando as tecnologias: HTML,CSS, JavasCript, Typescript, ReactJs, Next.Js.
+#### 📚 Pretendo estudar: Node.js/Java.
 
 <div>
   <a href="https://www.github.com/DaniloOliveirasx">
@@ -18,7 +18,7 @@
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-## Redes Sociais! 👇
+##### Redes Sociais! 👇
   
 <div>
    <a href = "mailto:oliveira.83555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
