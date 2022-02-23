@@ -1,28 +1,8 @@
-# Olá, me chamo Danilo! 😎
+### 👋 Hi, me chamo Danilo!
+<img src="https://i.postimg.cc/pLVkwgRc/images-2022-02-23-T161425-323-removebg-preview.png" >
 
-#### 💻 Estudante de Análise e Desenvolvimento de Sistemas
-#### 🔭 Focado atualmente em Front-End, utilizando as tecnologias: HTML,CSS, JavasCript, Typescript, ReactJs, Next.Js.
-#### 📚 Pretendo estudar: Node.js/Java.
-
-<div>
-  <a href="https://www.github.com/DaniloOliveirasx">
-  <img height="150rem" width="100%" src="https://github-readme-stats.vercel.app/api?username=DaniloOliveirasx&theme=blue-green" />
-  <img height="200rem" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOliveirasx&theme=blue-green"/>
-</div>
-
-##### 🏋🏻‍♀️ HABILIDADES/CONHECIMENTOS <br>
-<div style="display: inline_block"><br>
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
- <img align-items="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</div>
- 
-
-##### 👇 Redes Sociais!
+ 📚 Linguagens: **HTML, CSS, Javascript, Typescript, Sass**; <br>
+ ⚒️ Ferramnetas/Frameworks: **ReactJs, NextJs, Styled-components**
   
 <div>
   <a href = "mailto:dan.oliveira883@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
