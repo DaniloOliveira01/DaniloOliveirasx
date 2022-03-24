@@ -4,7 +4,7 @@
 
  📚 Linguagens: **HTML, CSS, Javascript, Typescript, Sass**; <br>
  ⚒️ Ferramnetas/Frameworks: **ReactJs, NextJs, Styled-components, NodeJs**; <br>
- 🔋 Banco de dados: Mongodb, Firebase, Insominia;
+ 🔋 Banco de dados: **Mongodb, Firebase, Insominia**;
 
   
 <div>
