@@ -3,8 +3,7 @@
 <img src="https://i.postimg.cc/pLVkwgRc/images-2022-02-23-T161425-323-removebg-preview.png" >
 
  📚 Linguagens: **HTML, CSS, Javascript, Typescript, Sass**; <br>
- ⚒️ Ferramnetas/Frameworks: **ReactJs, NextJs, Styled-components, NodeJs**; <br>
- 🔋 Banco de dados: **Mongodb, Firebase, Insominia**;
+ ⚒️ Ferramnetas/Frameworks: **ReactJs, NextJs, Styled-components, NodeJs, Tailwind CSS, Redux Toolkit/Saga, Shopify, SWR, MongoDB, Firebase**; <br>
 
   
 <div>
